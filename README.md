@@ -2,7 +2,7 @@
 
 Welcome to my IT and Cybersecurity Projects repository. 
 Here I document and share various projects I have worked on to enhance my skills in:
-  IT support, networking, cybersecurity, and full-stack development.
+  IT support, networking, cybersecurity, and full-stack development ( check other repositories ).
 
 ## Projects
 
