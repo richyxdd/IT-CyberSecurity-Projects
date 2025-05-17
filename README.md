@@ -6,5 +6,5 @@ Here I document and share various projects I have worked on to enhance my skills
 
 ## Projects
 
-- [Local Network Lab](./Local-Network-Lab) - Configured a local network, created users, and set folder permissions.
+- [Local Network Lab](/Local-Network-Lab) - Configured a local network, created users, and set folder permissions.
 - [Upcoming Projects] - More projects will be added soon.
